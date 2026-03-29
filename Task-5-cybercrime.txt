@@ -1,0 +1,34 @@
+[casestudy.txt]
+
+
+Phishing is one of the most common types of cybercrime where attackers trick individuals into revealing sensitive information such as passwords, bank details, or OTPs.
+
+In a typical scenario, a student receives an email that appears to be from a bank or a trusted organization. The email contains a link asking the user to verify their account details. When the student clicks the link, they are redirected to a fake website that looks identical to the original. The student unknowingly enters their login credentials, which are then captured by the attacker.
+
+Students and young individuals are often targeted because they may not be fully aware of such scams. The consequences of phishing attacks include financial loss, identity theft, and unauthorized access to personal accounts.
+
+This type of cybercrime is increasing rapidly due to the growing use of digital platforms and online transactions. Awareness and caution are essential to prevent such attacks.
+
+
+
+[prevention-checklist.txt]
+
+
+Stay Safe Online Checklist:
+
+- Never share OTP or passwords with anyone
+- Always check the website URL before entering details
+- Avoid clicking on unknown or suspicious links
+- Use strong and unique passwords
+- Enable two-factor authentication (2FA)
+- Regularly update your apps and devices
+- Avoid using public Wi-Fi for financial transactions
+- Monitor your bank transactions regularly
+
+UPI Safety Tips:
+- Never approve unknown payment requests
+- Do not scan random QR codes
+
+Report Cybercrime:
+- National Cyber Crime Portal: cybercrime.gov.in
+- Helpline Number: 1930
